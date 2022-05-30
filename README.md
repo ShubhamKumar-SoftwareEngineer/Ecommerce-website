@@ -1,5 +1,7 @@
 # EasyKart - An Ecommerce website for shopping.
 
+## View website - [Click Here](https://shubhamkumar-mern-dev.github.io/Ecommerce-website/products)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
 ## Development server
